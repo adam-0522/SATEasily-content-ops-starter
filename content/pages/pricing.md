@@ -11,19 +11,20 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: 30-Minute Consultation
-        price: Free
-        details: No credit card required
-        description: |
-          Touch base on student's current performance and goals.
+      - title: Lesson On Demand
+        price: $100
+        details: per hour
+        description: >
+          Recommended if you want to try some lessons with us first without a
+          commitment, or if you have specific need in an area.
         features:
-          - Personalized discussion on your SAT prep needs and goals
-          - Get a clear study plan tailored to your strengths and weaknesses
-          - No obligation – just explore if our sessions are right for you
-          - ''
+          - 'Flexible, one-on-one tutoring when you need it'
+          - Target specific SAT sections or concepts based on your requests
+          - Immediate feedback and strategies to boost your score
+          - Feature four
         image:
-          url: /images/hero.svg
-          altText: Pricing plan 1
+          url: /images/abstract-feature2.svg
+          altText: Pricing plan 2
           type: ImageBlock
         actions:
           - label: Try for free
@@ -42,20 +43,19 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Lesson On Demand
-        price: $100
-        details: per hour
-        description: >
-          Recommended if you want to try some lessons with us first without a
-          commitment, or if you have specific need in an area.
+      - title: 30-Minute Consultation
+        price: Free
+        details: No credit card required
+        description: |
+          Touch base on student's current performance and goals.
         features:
-          - 'Flexible, one-on-one tutoring when you need it'
-          - Target specific SAT sections or concepts based on your requests
-          - Immediate feedback and strategies to boost your score
-          - Feature four
+          - Personalized discussion on your SAT prep needs and goals
+          - Get a clear study plan tailored to your strengths and weaknesses
+          - No obligation – just explore if our sessions are right for you
+          - ''
         image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
+          url: /images/hero.svg
+          altText: Pricing plan 1
           type: ImageBlock
         actions:
           - label: Try for free
