@@ -46,7 +46,7 @@ sections:
         price: $100
         details: per hour
         description: >
-          Recommende if you want to try some lessons with us first without a
+          Recommended if you want to try some lessons with us first without a
           commitment, or if you have specific need in an area.
         features:
           - 'Flexible, one-on-one tutoring when you need it'
