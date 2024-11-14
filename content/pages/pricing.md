@@ -20,6 +20,7 @@ sections:
           - Personalized discussion on your SAT prep needs and goals
           - Get a clear study plan tailored to your strengths and weaknesses
           - No obligation – just explore if our sessions are right for you
+          - ''
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
