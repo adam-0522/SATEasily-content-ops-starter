@@ -18,7 +18,7 @@ sections:
           Touch base on student's current performance and goals.
         features:
           - Analyze weaknesses
-          - Feature two
+          - Propose study plan
           - Feature three
           - Feature four
         image:
