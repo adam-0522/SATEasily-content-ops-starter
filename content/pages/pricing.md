@@ -75,7 +75,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Discounted 8-Hour Plan
-        price: Custom
+        price: $700
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
