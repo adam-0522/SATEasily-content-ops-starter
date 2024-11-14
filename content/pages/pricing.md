@@ -19,7 +19,7 @@ sections:
         features:
           - Analyze weaknesses
           - Propose study plan
-          - Feature three
+          - Commitment free
           - Feature four
         image:
           url: /images/abstract-feature1.svg
