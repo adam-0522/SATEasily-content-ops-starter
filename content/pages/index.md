@@ -11,11 +11,18 @@ sections:
           fontWeight: 700
       type: TitleBlock
     subtitle: Stop worrying about standardized tests
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      I've tutored in different subjects and tests in the past 10 years
+
+
+      and SAT is the most learnable, rewarding and worthy one of them.
+
+
+      That is one of the reasons why I choose to focus on SAT tutoring, instead
+      of ACT or anything else.
+
+
+      Preparing for SAT should be fun, easy, and fast.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
