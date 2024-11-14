@@ -54,7 +54,7 @@ sections:
           - No obligation – just explore if our sessions are right for you
           - ''
         image:
-          url: /images/hero.svg
+          url: /images/Plan 2.jpg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
