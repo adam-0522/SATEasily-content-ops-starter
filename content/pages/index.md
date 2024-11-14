@@ -44,7 +44,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: 'Hi from Adam Chung, tutor from SAT Easily'
+      label: if you don't have an idea about sat
       color: text-primary
       styles:
         self:
