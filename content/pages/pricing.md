@@ -77,9 +77,8 @@ sections:
       - title: Discounted 8-Hour Plan
         price: $700
         details: $100 discount off the original price for 8 hours
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+        description: |
+          Save on hourly rates with a comprehensive 8-hour package
         features:
           - Feature one
           - Feature two
