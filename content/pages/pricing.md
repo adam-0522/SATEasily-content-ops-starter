@@ -80,7 +80,9 @@ sections:
         description: |
           Save on hourly rates with a comprehensive 8-hour package
         features:
-          - Feature one
+          - >-
+            Structured lessons covering all major SAT components: Reading,
+            Writing, and Math
           - Feature two
           - Feature three
           - Feature four
