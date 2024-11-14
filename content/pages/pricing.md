@@ -50,7 +50,7 @@ sections:
           accusantium doloremque.
         features:
           - 'Flexible, one-on-one tutoring when you need it'
-          - Feature two
+          - Target specific SAT sections or concepts based on your requests
           - Feature three
           - Feature four
         image:
