@@ -52,6 +52,11 @@ sections:
           - pl-10
           - pb-10
           - pr-10
+        margin:
+          - mt-7
+          - ml-7
+          - mb-7
+          - mr-7
       subtitle:
         textAlign: center
       text:
