@@ -47,7 +47,7 @@ sections:
     styles:
       self:
         alignItems: flex-end
-        flexDirection: col
+        flexDirection: row
         padding:
           - pt-16
           - pl-16
