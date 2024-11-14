@@ -63,7 +63,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Get started
+        label: Book Sessions
         altText: ''
         url: /
         showIcon: false
