@@ -49,7 +49,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - Feature one
+          - No obligation – just explore if our sessions are right for you
           - Feature two
           - Feature three
           - Feature four
