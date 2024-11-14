@@ -74,7 +74,7 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: 8-Hour Plan
+      - title: 8-Hour Study Plan
         price: $700
         details: $100 discount off the original price for 8 hours
         description: |
