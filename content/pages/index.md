@@ -56,6 +56,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+        fontWeight: 700
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
