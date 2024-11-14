@@ -12,11 +12,13 @@ sections:
       type: TitleBlock
     subtitle: 'Hi, I''m Adam, tutor from SAT Easily'
     text: >+
-      <div style="text-align: center">I've tutored in different subjects and
-      tests in the past 10 years and SAT is the **most learnable,** **rewarding
-      and worthy** one of them. I got a 1530 on my first try, and I have helped
-      over 20 students not only **improve their SAT scores**, but also learned
-      **how to study**, as the Chinese saying goes "授人以鱼不如授人以渔“.</div>
+      <div style="text-align: center">I've spent the past 10 years tutoring
+      various subjects and standardized tests, and the SAT stands out as the
+      most learnable, rewarding, and worthwhile. I scored a 1530 on my first
+      attempt, and over the past year, I've helped more than 40 students not
+      only **raise their SAT scores** but also **develop effective study
+      skills**. As the Chinese saying goes, '授人以鱼不如授人以渔' — giving someone a fish
+      is not as valuable as teaching them how to fish.</div>
 
     media:
       title: Title of the video
