@@ -53,10 +53,10 @@ sections:
           - pb-0
           - pr-0
         margin:
-          - mt-7
-          - ml-7
-          - mb-7
-          - mr-7
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
         textAlign: center
       text:
