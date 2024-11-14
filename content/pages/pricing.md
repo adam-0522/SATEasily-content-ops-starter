@@ -20,7 +20,7 @@ sections:
           - Analyze weaknesses
           - Propose study plan
           - Commitment free
-          - Feature four
+          - Hassle free
         image:
           url: /images/abstract-feature1.svg
           altText: Pricing plan 1
