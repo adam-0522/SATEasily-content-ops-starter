@@ -17,7 +17,7 @@ sections:
         description: |
           Touch base on student's current performance and goals.
         features:
-          - Feature one
+          - Analyze weaknesses
           - Feature two
           - Feature three
           - Feature four
