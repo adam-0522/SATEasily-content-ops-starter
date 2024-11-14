@@ -10,7 +10,7 @@ sections:
           textAlign: center
           fontWeight: 700
       type: TitleBlock
-    subtitle: 'Adam Chung, tutor from SAT Easily'
+    subtitle: 'From Adam Chung, tutor from SAT Easily'
     text: >
       I've tutored in different subjects and tests in the past 10 years
 
