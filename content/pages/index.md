@@ -37,7 +37,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: 'Hi from Adam Chung, tutor from SAT Easily'
       color: text-primary
       styles:
         self:
