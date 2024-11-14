@@ -11,7 +11,7 @@ sections:
       type: TitleBlock
     subtitle: This is the subtitle for the pricing section
     plans:
-      - title: 30-min Consultation
+      - title: 30-Minute Consultation
         price: Free
         details: No credit card required
         description: |
