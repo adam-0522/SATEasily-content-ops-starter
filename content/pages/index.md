@@ -10,7 +10,7 @@ sections:
           textAlign: center
           fontWeight: 700
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: Stop worrying about standardized tests
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
