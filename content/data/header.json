@@ -1,10 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
-        "altText": "Logo dark",
+        "url": "/images/Easily copy.png",
+        "altText": "SATE Logo",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
@@ -41,12 +43,15 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
-                    "icon": "arrowRight",
-                    "iconPosition": "right",
+                    "type": "Link",
+                    "label": "YouTube",
+                    "altText": "YouTube",
+                    "url": "https://www.youtube.com/@SATeasily",
+                    "showIcon": true,
+                    "icon": "youtube",
+                    "iconPosition": "left",
                     "style": "secondary",
-                    "type": "Link"
+                    "elementId": ""
                 },
                 {
                     "label": "Dropdown item",
@@ -90,5 +95,21 @@
     ],
     "variant": "logo-left-primary-nav-centered",
     "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-0",
+                "pl-0",
+                "pb-0",
+                "pr-0"
+            ],
+            "margin": [
+                "mt-0",
+                "ml-0",
+                "mb-0",
+                "mr-0"
+            ]
+        }
+    }
 }
