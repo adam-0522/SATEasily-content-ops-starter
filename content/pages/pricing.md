@@ -23,7 +23,7 @@ sections:
           - Immediate feedback and strategies to boost your score
           - Feature four
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Plan 1.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
