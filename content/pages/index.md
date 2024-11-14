@@ -22,7 +22,7 @@ sections:
       of ACT or anything else.
 
 
-      Preparing for SAT should be fun, easy, and fast.
+      Preparing for SAT should be fun, easy, and fast.![](/images/Plan%201.jpg)
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
