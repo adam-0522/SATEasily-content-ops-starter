@@ -45,9 +45,9 @@ sections:
       - title: Lesson On Demand
         price: $100
         details: per hour
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: >
+          Recommende if you want to try some lessons with us first without a
+          commitment, or if you have specific need in an area.
         features:
           - 'Flexible, one-on-one tutoring when you need it'
           - Target specific SAT sections or concepts based on your requests
