@@ -61,6 +61,16 @@ sections:
       text:
         textAlign: center
     type: GenericSection
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
