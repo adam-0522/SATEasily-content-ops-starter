@@ -3,13 +3,6 @@ title: Home
 slug: /
 sections:
   - type: GenericSection
-    title:
-      text: Welcome to SAT Easily
-      color: text-dark
-      type: TitleBlock
-      styles:
-        self:
-          textAlign: left
     subtitle: Subtitle goes here
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
