@@ -14,9 +14,8 @@ sections:
       - title: 30-min Consultation
         price: Free
         details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+        description: |
+          Touch base on student's current performance and goals.
         features:
           - Feature one
           - Feature two
