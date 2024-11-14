@@ -51,6 +51,17 @@
                     "type": "Link"
                 },
                 {
+                    "type": "Link",
+                    "label": "YouTube",
+                    "altText": "YouTube",
+                    "url": "https://www.youtube.com/@SATeasily",
+                    "showIcon": true,
+                    "icon": "youtube",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
                     "label": "Dropdown item",
                     "url": "/",
                     "icon": "arrowRight",
