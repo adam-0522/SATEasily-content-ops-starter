@@ -51,7 +51,7 @@ sections:
         features:
           - 'Flexible, one-on-one tutoring when you need it'
           - Target specific SAT sections or concepts based on your requests
-          - Feature three
+          - Immediate feedback and strategies to boost your score
           - Feature four
         image:
           url: /images/abstract-feature2.svg
