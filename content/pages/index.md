@@ -3,7 +3,7 @@ title: Home
 slug: /
 sections:
   - title:
-      text: 'SAT is easy to learn, actually'
+      text: SAT is easy
       color: text-dark
       styles:
         self:
