@@ -49,8 +49,8 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - 'Flexible, one-on-one tutoring when you need it'
           - Feature two
+          - 'Flexible, one-on-one tutoring when you need it'
           - Feature three
           - Feature four
         image:
