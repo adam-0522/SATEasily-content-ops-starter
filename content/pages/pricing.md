@@ -76,7 +76,7 @@ sections:
         type: PricingPlan
       - title: Discounted 8-Hour Plan
         price: $700
-        details: per month
+        details: $100 discount off the original price for 8 hours
         description: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam.
