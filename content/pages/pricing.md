@@ -44,7 +44,7 @@ sections:
         type: PricingPlan
       - title: Lesson On Demand
         price: $100
-        details: per month
+        details: per hour
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
