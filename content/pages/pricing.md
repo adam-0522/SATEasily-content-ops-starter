@@ -18,7 +18,7 @@ sections:
           Touch base on student's current performance and goals.
         features:
           - Personalized discussion on your SAT prep needs and goals
-          - Propose study plan
+          - Get a clear study plan tailored to your strengths and weaknesses
           - Commitment free
           - Hassle free
         image:
