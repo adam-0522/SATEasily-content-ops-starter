@@ -22,7 +22,7 @@ sections:
           - No obligation – just explore if our sessions are right for you
           - ''
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/hero.svg
           altText: Pricing plan 1
           type: ImageBlock
         actions:
