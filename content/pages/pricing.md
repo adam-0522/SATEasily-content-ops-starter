@@ -45,7 +45,7 @@ sections:
         type: PricingPlan
       - title: 30-Minute Consultation
         price: Free
-        details: No credit card required
+        details: Required before booking for tutoring sessions
         description: |
           Touch base on student's current performance and goals.
         features:
