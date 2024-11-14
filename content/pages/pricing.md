@@ -49,7 +49,7 @@ sections:
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
           accusantium doloremque.
         features:
-          - No obligation – just explore if our sessions are right for you
+          - 'Flexible, one-on-one tutoring when you need it'
           - Feature two
           - Feature three
           - Feature four
