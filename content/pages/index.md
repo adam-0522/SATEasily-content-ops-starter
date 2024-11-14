@@ -11,16 +11,24 @@ sections:
           fontWeight: 700
       type: TitleBlock
     subtitle: 'Hi, I''m Adam, tutor from SAT Easily'
-    text: >
-      I've tutored in different subjects and tests in the past 10 years and SAT
-      is the **most learnable, rewarding and worthy** one of them.
+    text: >+
 
 
-      That is one of the reasons why I choose to focus on SAT tutoring, instead
-      of ACT or anything else.
+      I got a 1530 on my first try, and I enjoyed teaching and studying for
+      SAT. 
 
 
-      Preparing for SAT should be fun, easy, and fast.
+      > I've tutored in different subjects and tests in the past 10 years and
+      SAT is the 
+
+      >
+
+      > **most learnable, rewarding and worthy**
+
+      >
+
+      >  one of them.
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
