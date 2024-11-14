@@ -14,8 +14,9 @@ sections:
     text: >+
       <div style="text-align: center">I've tutored in different subjects and
       tests in the past 10 years and SAT is the **most learnable,** **rewarding
-      and worthy** one of them. I got a 1530 on my first try, and I enjoyed
-      teaching and studying for SAT.</div>
+      and worthy** one of them. I got a 1530 on my first try, and I have helped
+      over 20 students not only **improve their SAT scores**, but also learned
+      **how to study**, as the Chinese saying goes "授人以鱼不如授人以渔“.</div>
 
     media:
       title: Title of the video
