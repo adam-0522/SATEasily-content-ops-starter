@@ -76,7 +76,7 @@ sections:
         type: PricingPlan
       - title: 8-Hour Study Plan
         price: $700
-        details: $100 discount off the original price for 8 hours
+        details: $100 discount off from original per-rate price
         description: |
           Save on hourly rates with a comprehensive 8-hour package
         features:
