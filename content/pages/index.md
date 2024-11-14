@@ -12,22 +12,11 @@ sections:
       type: TitleBlock
     subtitle: 'Hi, I''m Adam, tutor from SAT Easily'
     text: >+
-
-
-      I got a 1530 on my first try, and I enjoyed teaching and studying for
-      SAT. 
+      I got a 1530 on my first try, and I enjoyed teaching and studying for SAT.
 
 
       > I've tutored in different subjects and tests in the past 10 years and
-      SAT is the 
-
-      >
-
-      > **most learnable, rewarding and worthy**
-
-      >
-
-      >  one of them.
+      SAT is the **most learnable, rewarding and worthy** one of them.
 
     media:
       title: Title of the video
