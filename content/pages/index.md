@@ -14,11 +14,8 @@ sections:
     text: >+
       <div style="text-align: center">I've tutored in different subjects and
       tests in the past 10 years and SAT is the **most learnable,** **rewarding
-      and worthy** one of them.</div>
-
-
-      <div style="text-align: center">I got a 1530 on my first try, and I
-      enjoyed teaching and studying for SAT.</div>
+      and worthy** one of them. I got a 1530 on my first try, and I enjoyed
+      teaching and studying for SAT.</div>
 
     media:
       title: Title of the video
