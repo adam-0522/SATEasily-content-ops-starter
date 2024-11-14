@@ -43,7 +43,7 @@ sections:
             borderRadius: large
         type: PricingPlan
       - title: Lesson On Demand
-        price: $99
+        price: $100
         details: per month
         description: >-
           Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
