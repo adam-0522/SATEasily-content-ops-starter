@@ -43,13 +43,6 @@ sections:
       autoplay: true
       loop: true
       muted: true
-    badge:
-      label: if you don't have an idea about sat
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     colors: bg-neutral-fg-dark
     styles:
       self:
