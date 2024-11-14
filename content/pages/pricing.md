@@ -83,7 +83,7 @@ sections:
           - >-
             Structured lessons covering all major SAT components: Reading,
             Writing, and Math
-          - Feature two
+          - 'Ideal for focused, consistent progress over a set period'
           - Feature three
           - Feature four
           - Feature five
