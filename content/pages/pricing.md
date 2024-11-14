@@ -19,7 +19,7 @@ sections:
         features:
           - Personalized discussion on your SAT prep needs and goals
           - Get a clear study plan tailored to your strengths and weaknesses
-          - Commitment free
+          - No obligation – just explore if our sessions are right for you
           - Hassle free
         image:
           url: /images/abstract-feature1.svg
