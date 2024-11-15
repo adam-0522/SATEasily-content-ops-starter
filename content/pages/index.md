@@ -7,7 +7,7 @@ sections:
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
           fontWeight: 700
       type: TitleBlock
     subtitle: 'Hi, I''m Adam, tutor from SAT Easily'
