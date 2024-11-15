@@ -32,10 +32,10 @@ sections:
           - pb-0
           - pr-0
         margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
+          - mt-3
+          - ml-3
+          - mb-3
+          - mr-3
       subtitle:
         textAlign: left
       text:
