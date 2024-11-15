@@ -87,7 +87,6 @@ sections:
             Writing, and Math
           - 'Ideal for focused, consistent progress over a set period'
           - Venmo/Paypal/Zelle/Alipay
-          - Feature five
         image:
           url: /images/Plan 3.jpg
           altText: Pricing plan 3
