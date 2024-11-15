@@ -79,7 +79,7 @@ sections:
         price: $700
         details: save $100 from original total
         description: |
-          Save on hourly rates with a comprehensive 8-hour package
+          ***Save on hourly rates with a comprehensive 8-hour package***
         features:
           - >-
             Structured lessons covering all major SAT components: Reading,
