@@ -45,7 +45,7 @@ sections:
       - type: Button
         label: Book Sessions
         altText: ''
-        url: /
+        url: /plans
         showIcon: false
         icon: arrowRight
         iconPosition: right
