@@ -17,8 +17,8 @@ sections:
         price: $100
         details: per hour
         description: >
-          Recommended if you want to try some lessons with us first without a
-          commitment, or if you have specific need in an area.
+          *Recommended if you want to try some lessons with us first without a
+          commitment, or if you have specific need in an area.*
         features:
           - 'Flexible, one-on-one tutoring when you need it'
           - Target specific SAT sections or concepts based on your requests
