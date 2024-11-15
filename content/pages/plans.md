@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Plans
 slug: plans
 sections:
   - title:
