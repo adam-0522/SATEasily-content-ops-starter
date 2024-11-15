@@ -49,7 +49,7 @@ sections:
         price: Free
         details: Required before booking for tutoring sessions
         description: |
-          *Touch base on student's current performance and goals.*
+          ***Touch base on student's current performance and goals.***
         features:
           - Personalized discussion on your SAT prep needs and goals
           - Get a clear study plan tailored to your strengths and weaknesses
