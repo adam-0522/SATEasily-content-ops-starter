@@ -11,7 +11,7 @@
             {
                 "label": "Plans",
                 "altText": "",
-                "url": "/",
+                "url": "/plans",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
