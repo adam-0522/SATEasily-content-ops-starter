@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Book a free 30-minute consultation session to know more about your SAT
     plans:
       - title: Lesson On Demand
         price: $100
