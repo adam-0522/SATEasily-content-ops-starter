@@ -85,7 +85,7 @@ sections:
             Structured lessons covering all major SAT components: Reading,
             Writing, and Math
           - 'Ideal for focused, consistent progress over a set period'
-          - Venmo/Paypal/Zelle/Alipay
+          - Pay with Venmo/Paypal/Zelle/Alipay
         image:
           url: /images/Plan 3.jpg
           altText: Pricing plan 3
