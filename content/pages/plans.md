@@ -9,7 +9,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Book a free 30-minute consultation session to know more about your SAT
+    subtitle: >-
+      Book a free 30-minute consultation session to let us know more about you
+      and your SAT goal
     plans:
       - title: Lesson On Demand
         price: $100
