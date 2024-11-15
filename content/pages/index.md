@@ -37,7 +37,7 @@ sections:
           - mb-0
           - mr-0
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
         textAlign: center
     type: GenericSection
