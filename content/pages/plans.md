@@ -23,7 +23,7 @@ sections:
           - 'Flexible, one-on-one tutoring when you need it'
           - Target specific SAT sections or concepts based on your requests
           - Immediate feedback and strategies to boost your score
-          - Feature four
+          - Venmo/Paypal/Zelle/Alipay
         image:
           url: /images/Plan 1.jpg
           altText: Pricing plan 2
