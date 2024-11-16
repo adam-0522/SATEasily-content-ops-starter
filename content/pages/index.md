@@ -105,10 +105,10 @@ sections:
       - title: hoW
         subtitle: PT & QB
         text: >
-          Bluebook practice test and SAT question bank should be your best
+          Bluebook Practice Test and SAT Question Bank should be your best
           friends for this test. Take a practice test and analyze your
           shortcomings, then focus on the specific type of question with the
-          official QB.
+          official QB. 
         image:
           url: /images/icon2.svg
           altText: Featured icon two
