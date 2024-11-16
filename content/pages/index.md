@@ -74,7 +74,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Set Clear Goals
-        subtitle: 1-3 months
+        subtitle: ''
         text: >
           Aiming for a 1600 is admirable but not necessary — and it often
           involves some luck.
