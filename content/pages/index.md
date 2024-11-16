@@ -126,7 +126,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Win
+      - title: hoW
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
