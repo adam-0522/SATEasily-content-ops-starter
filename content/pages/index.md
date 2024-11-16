@@ -198,7 +198,7 @@ sections:
             justifyContent: center
             textAlign: left
     actions:
-      - label: Book a 30-min free consultation
+      - label: Book a FREE consultation
         altText: ''
         url: /
         showIcon: false
