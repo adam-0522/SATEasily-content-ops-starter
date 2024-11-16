@@ -12,7 +12,7 @@ sections:
       type: TitleBlock
     subtitle: 'Hi, I''m Adam from SAT Easily'
     text: >+
-      <div style="text-align: left">“I've spent the past 10 years tutoring
+      <div style="text-align: left">I've spent the past 10 years tutoring
       various subjects and standardized tests, and the SAT stands out as the
       most learnable, rewarding, and worthwhile. I scored a 1530 on my first
       attempt, and over the past year, I've helped more than 40 students not
