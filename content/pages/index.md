@@ -70,7 +70,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: Study guide for every student
     items:
       - type: FeaturedItem
         title: When
