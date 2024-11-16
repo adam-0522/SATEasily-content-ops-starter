@@ -27,7 +27,7 @@ sections:
         justifyContent: center
         alignItems: center
         padding:
-          - pt-9
+          - pt-3
           - pl-3
           - pb-3
           - pr-3
