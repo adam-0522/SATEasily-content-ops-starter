@@ -102,7 +102,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: hoW
+      - title: What
         subtitle: PT & QB
         text: >
           Bluebook Practice Test and SAT Question Bank should be your best
