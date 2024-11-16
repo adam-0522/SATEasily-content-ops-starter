@@ -103,7 +103,7 @@ sections:
             self:
               borderRadius: x-large
       - title: hoW
-        subtitle: practice tests
+        subtitle: PT & QB
         text: >
           Bluebook practice test and SAT question bank should be your best
           friends for this test. Take a practice test and analyze your
