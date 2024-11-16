@@ -76,10 +76,14 @@ sections:
         title: Set Clear Goals
         subtitle: 1-3 months
         text: >
-          You should start studying for the SAT 1-3 months before your first
-          test. Don't start in the last week, but also don't start too early.
-          The best time for taking the first test is August/October in your
-          Sophomore-Junior year. 
+          Aiming for a 1600 is admirable but not necessary — and it often
+          involves some luck.
+
+
+          Focus on setting personal goals for each practice test and real exam.
+
+
+          The best score is one where you’ve done your best and have no regrets.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
