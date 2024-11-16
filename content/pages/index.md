@@ -64,7 +64,7 @@ sections:
           - pr-3
   - type: FeaturedItemsSection
     title:
-      text: The 3 W's about SAT
+      text: Your SAT Success Plan
       color: text-dark
       styles:
         self:
