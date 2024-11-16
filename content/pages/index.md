@@ -73,7 +73,7 @@ sections:
     subtitle: Study guide for every student
     items:
       - type: FeaturedItem
-        title: When
+        title: Set Clear Goals
         subtitle: 1-3 months
         text: >
           You should start studying for the SAT 1-3 months before your first
