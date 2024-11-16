@@ -45,7 +45,7 @@ sections:
       - type: Button
         label: About SAT Easily
         altText: ''
-        url: /plans
+        url: /about
         showIcon: false
         icon: arrowRight
         iconPosition: right
