@@ -1,65 +1,35 @@
 ---
-title: Pricing
-slug: pricing
+title: Plans
+slug: plans
 sections:
   - title:
-      text: Flexible Pricing
+      text: Flexible Plans
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: >-
+      Book a free 30-minute consultation session to let us know more about you
+      and your SAT goal
     plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+      - title: Lesson On Demand
+        price: $100
+        details: per hour
+        description: >
+          ***Recommended if you want to try some lessons with us first without a
+          commitment, or if you have specific need in an area.***
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - 'Flexible, one-on-one tutoring when you need it'
+          - Target specific SAT sections or concepts based on your requests
+          - Immediate feedback and strategies to boost your score
+          - Pay with Venmo/Paypal/Zelle/Alipay
         image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature2.svg
+          url: /images/Plan 1.jpg
           altText: Pricing plan 2
           type: ImageBlock
         actions:
-          - label: Try for free
+          - label: Book Sessions
             url: /
             icon: arrowRight
             iconPosition: right
@@ -75,20 +45,49 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+      - title: 30-Minute Consultation
+        price: Free
+        details: Required before booking for tutoring sessions
+        description: |
+          ***Touch base on student's current performance and goals.***
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Personalized discussion on your SAT prep needs and goals
+          - Get a clear study plan tailored to your strengths and weaknesses
+          - No obligation – just explore if our sessions are right for you
         image:
-          url: /images/abstract-feature3.svg
+          url: /images/Plan 2.jpg
+          altText: Pricing plan 1
+          type: ImageBlock
+        actions:
+          - label: Book Free Consultation
+            url: /
+            icon: arrowRight
+            iconPosition: right
+            style: secondary
+            type: Button
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-6
+              - pb-10
+              - pl-6
+              - pr-6
+            borderRadius: large
+        type: PricingPlan
+      - title: 8-Hour Study Plan
+        price: $700
+        details: save $100 from original total
+        description: |
+          ***Save on hourly rates with a comprehensive 8-hour package***
+        features:
+          - >-
+            Structured lessons covering all major SAT components: Reading,
+            Writing, and Math
+          - 'Ideal for focused, consistent progress over a set period'
+          - Pay with Venmo/Paypal/Zelle/Alipay
+        image:
+          url: /images/Plan 3.jpg
           altText: Pricing plan 3
           type: ImageBlock
         actions:
