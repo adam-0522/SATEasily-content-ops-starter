@@ -30,7 +30,7 @@ sections:
           - pt-9
           - pl-3
           - pb-0
-          - pr-0
+          - pr-3
         margin:
           - mt-0
           - ml-0
