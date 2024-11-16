@@ -105,7 +105,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: What
+      - title: Plan the Right Timing
         subtitle: PT & QB
         text: >
           Bluebook Practice Test and SAT Question Bank should be your best
