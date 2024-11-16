@@ -110,6 +110,14 @@ sections:
         text: >
           Start studying 1–3 months before your first test to give yourself
           enough preparation time.
+
+
+          Avoid last-minute cramming, but also don’t begin too early to avoid
+          burnout.
+
+
+          The ideal time for your first SAT is August or October of your
+          sophomore or junior year.
         image:
           altText: Featured icon two
           elementId: ''
