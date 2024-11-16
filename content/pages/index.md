@@ -10,7 +10,7 @@ sections:
           textAlign: left
           fontWeight: 700
       type: TitleBlock
-    subtitle: 'Hi, I''m Adam, tutor from SAT Easily'
+    subtitle: 'Hi, I''m Adam from SAT Easily'
     text: >+
       <div style="text-align: left">I've spent the past 10 years tutoring
       various subjects and standardized tests, and the SAT stands out as the
