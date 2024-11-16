@@ -117,7 +117,7 @@ sections:
 
 
           The ideal time for your first SAT is August or October of your
-          sophomore or junior year.
+          sophomore year.
         image:
           altText: Featured icon two
           elementId: ''
