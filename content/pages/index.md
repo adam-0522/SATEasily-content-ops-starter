@@ -64,7 +64,7 @@ sections:
           - pr-3
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: What you should know about SAT
       color: text-dark
       styles:
         self:
