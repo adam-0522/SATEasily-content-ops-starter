@@ -109,7 +109,6 @@ sections:
           shortcomings, then focus on the specific type of question with the
           official QB. 
         image:
-          url: /images/icon2.svg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
