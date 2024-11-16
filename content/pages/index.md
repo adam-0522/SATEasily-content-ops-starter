@@ -136,7 +136,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: hoW
+      - title: Use the Best Tools
         subtitle: clear goal & hard work
         text: >
           Achieving a perfect 1600 is possible, but it's not necessary — and
