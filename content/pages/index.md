@@ -106,7 +106,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Plan the Right Timing
-        subtitle: PT & QB
+        subtitle: ''
         text: >
           Start studying 1–3 months before your first test to give yourself
           enough preparation time.
