@@ -24,17 +24,17 @@
             "elementId": ""
         },
         {
-            "label": "Plans",
-            "url": "/plans",
+            "label": "About SAT Easily",
+            "altText": "",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "About SAT Easily",
-            "altText": "",
-            "url": "/about",
+            "label": "Plans",
+            "url": "/plans",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
