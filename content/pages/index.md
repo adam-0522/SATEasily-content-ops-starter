@@ -108,10 +108,8 @@ sections:
       - title: Plan the Right Timing
         subtitle: PT & QB
         text: >
-          Bluebook Practice Test and SAT Question Bank should be your best
-          friends for this test. Take a practice test and analyze your
-          shortcomings, then focus on the specific type of question with the
-          official QB. 
+          Start studying 1–3 months before your first test to give yourself
+          enough preparation time.
         image:
           altText: Featured icon two
           elementId: ''
