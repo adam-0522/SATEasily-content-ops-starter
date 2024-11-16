@@ -128,7 +128,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: What
+      - title: Win
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
