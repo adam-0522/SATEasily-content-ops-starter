@@ -20,7 +20,7 @@ sections:
       skills**. As the Chinese saying goes, '授人以鱼不如授人以渔' — giving someone a fish
       is not as valuable as teaching them how to fish.</div>
 
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         flexDirection: col
