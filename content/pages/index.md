@@ -139,19 +139,14 @@ sections:
       - title: Use the Best Tools
         subtitle: ''
         text: >
-          Achieving a perfect 1600 is possible, but it's not necessary — and
-          sometimes it comes down to luck. What's more important is setting
-          **realistic goals** for yourself with each practice test and real
-          exam. The best score is one where you know you gave it your all and
-          have no regrets.
+          Make the Bluebook Practice Tests and SAT Question Bank your go-to
+          resources.
 
 
-          The SAT is a standardized test full of questions, rules, and
-          strategies. To succeed, you need to learn not only the material but
-          also when and how to apply smart tactics. **Master techniques** to
-          skip unnecessary steps, speed up your answers, and strategically
-          sacrifice time-consuming, low-value questions in favor of quick and
-          easy ones. The key is working smarter, not just harder.
+          Take a practice test to identify your weak areas.
+
+
+          Use the Question Bank to target and master specific question types.
         image:
           altText: Featured icon three
           elementId: ''
