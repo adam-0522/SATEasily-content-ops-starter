@@ -39,7 +39,7 @@ sections:
       subtitle:
         textAlign: left
       text:
-        textAlign: center
+        textAlign: left
     type: GenericSection
     actions:
       - type: Button
