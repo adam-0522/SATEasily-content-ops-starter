@@ -137,7 +137,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Use the Best Tools
-        subtitle: clear goal & hard work
+        subtitle: ''
         text: >
           Achieving a perfect 1600 is possible, but it's not necessary — and
           sometimes it comes down to luck. What's more important is setting
