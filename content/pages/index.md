@@ -74,7 +74,7 @@ sections:
     items:
       - type: FeaturedItem
         title: When
-        subtitle: Numbers Done
+        subtitle: 1-3 months
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
