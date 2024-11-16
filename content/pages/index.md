@@ -104,10 +104,11 @@ sections:
               borderRadius: x-large
       - title: hoW
         subtitle: practice tests
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Bluebook practice test and SAT question bank should be your best
+          friends for this test. Take a practice test and analyze your
+          shortcomings, then focus on the specific type of question with the
+          official QB.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
