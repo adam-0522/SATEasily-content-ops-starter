@@ -166,10 +166,17 @@ sections:
       - type: FeaturedItem
         title: Master Smart Strategies
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |+
+          The SAT is as much about strategy as it is about knowledge.
+
+          Learn to:
+
+          *   Skip unnecessary steps with smarter techniques.
+
+          *   Prioritize short, high-value questions over long, low-value ones.
+
+          *   Manage your time efficiently to maximize your score.
+
         image:
           type: ImageBlock
           altText: Placeholder text
