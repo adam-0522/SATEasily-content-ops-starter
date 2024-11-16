@@ -43,7 +43,7 @@ sections:
     type: GenericSection
     actions:
       - type: Button
-        label: Book Sessions
+        label: About SAT Easily
         altText: ''
         url: /plans
         showIcon: false
