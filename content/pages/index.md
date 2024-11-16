@@ -75,10 +75,11 @@ sections:
       - type: FeaturedItem
         title: When
         subtitle: 1-3 months
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          You should start studying for the SAT 1-3 months before your first
+          test. Don't start in the last week, but also don't start too early.
+          The best time for taking the first test is August/October in your
+          Sophomore-Junior year. 
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
