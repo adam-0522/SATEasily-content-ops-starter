@@ -3,60 +3,54 @@ title: Home
 slug: /
 sections:
   - title:
-      text: 'SAT is easy to learn, actually'
+      text: SAT is easy
       color: text-dark
       styles:
         self:
-          textAlign: center
+          textAlign: left
           fontWeight: 700
       type: TitleBlock
-    subtitle: 'Hi, I''m Adam, tutor from SAT Easily'
+    subtitle: 'Hi, I''m Adam from SAT Easily'
     text: >+
-      I've tutored in different subjects and tests in the past 10 years
+      <div style="text-align: left">I've spent the past 10 years tutoring
+      various subjects and standardized tests, and the SAT stands out as the
+      most learnable, rewarding, and worthwhile. I scored a 1530 on my first
+      attempt, and over the past year, I've helped more than 40 students not
+      only **raise their SAT scores** but also **develop effective study
+      skills**. As the Chinese saying goes, '授人以鱼不如授人以渔' — giving someone a fish
+      is not as valuable as teaching them how to fish.</div>
 
-
-      and SAT is the **most learnable, rewarding and worthy** one of them.
-
-
-      That is one of the reasons why I choose to focus on SAT tutoring, instead
-      of ACT or anything else.
-
-
-      Preparing for SAT should be fun, easy, and fast.
-
-
-
-
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         flexDirection: col
         justifyContent: center
+        alignItems: center
+        padding:
+          - pt-9
+          - pl-3
+          - pb-3
+          - pr-3
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
     type: GenericSection
+    actions:
+      - type: Button
+        label: Book Sessions
+        altText: ''
+        url: /plans
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
@@ -154,13 +148,6 @@ sections:
         style: primary
         elementId: ''
         type: Button
-    badge:
-      label: This is a badge
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
     elementId: ''
     variant: three-col-grid
     colors: bg-light-fg-dark
