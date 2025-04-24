@@ -16,47 +16,53 @@ sections:
         title: Start with taking a practice test
         subtitle: The best way to prepare for it is to take it
         text: >
-          #### Download bluebook, and take one practice test. There are a few
-          benefits for doing so:
+          **Start with a Practice Test Before You Begin Studying**
 
 
-          ##### First, you know what SAT tests on and how the questions look
-          like.
+          Before diving into SAT prep, the very first step I recommend is this:
+          **download Bluebook and take one full practice test**. Here’s why it
+          matters:
 
 
-          You might have a few irrational fear before taking your SAT, but after
-          the first exam, most students get a basic idea of what the exam really
-          is about, regardless of the score. The concepts should all be pretty
-          familiar or close to what you have encountered in your past learning &
-          test taking experience.
+          **1. Understand the Test Format and Content**
 
 
-          ##### Second, you know where to start prepping.
+          Taking a practice test helps you get familiar with the structure of
+          the SAT—how the questions are worded and what types of concepts are
+          tested. Many students feel anxious before their first SAT, but after
+          completing a full practice test, that fear usually fades. You’ll
+          realize that most of the content is based on concepts you've already
+          encountered in school or previous exams.
 
 
-          After your first practice test, you get a test report that looks like
-          this:
+          **2. Know Where to Focus Your Prep**
 
 
-          It's got your score, answers to each question and suggests you what
-          skills to work on. From this, you can revisit the questions and the
-          underlying concepts, find similar questions from the question bank and
-          improve relevant skills. With every practice test(there're only 7 of
-          them for now, so make the full use of them and don't waste them), you
-          get a test report, you do a revision not just on the test, but the
-          skills where you did poorly on, so that you improve with each test,
-          gaining more points will get you more confident and keep studying.
+          After finishing the test, you'll get a detailed score report. It shows
+          your total score, which questions you got right or wrong, and the
+          specific skills you need to improve. This report becomes your starting
+          point. Use it to go back, review the questions you missed, understand
+          the underlying concepts, and practice similar problems.
 
 
-          ##### Finally, you can set a realistic goal for yourself.
+          Since there are currently only 7 official digital practice tests
+          available, use each one wisely. After every test, reflect not just on
+          the score, but on the weak areas. Focused review like this leads to
+          real improvement—and real score gains.
 
 
-          If your first score is 1000, don't expect to raise it to 1400 in the
-          next one. Hopefully and realistically, you get incremental successes
-          by properly reviewing the wrong questions and get 50 points higher
-          with each test. Then after all the practice tests you shall have a go
-          at 1300+. of course, the higher score you start from, the smaller
-          increments you expect, because the maximum is 1600!
+          **3. Set a Realistic, Achievable Goal**
+
+
+          Your first score gives you a baseline. If you score 1000 on your first
+          test, don’t expect to jump to 1400 right away. Instead, aim for steady
+          progress—perhaps 30–50 points at a time by learning from your
+          mistakes. With consistent practice and review, many students see
+          significant gains over time.
+
+
+          Just keep in mind: the higher your starting score, the smaller your
+          score jumps will likely be. After all, the max score is 1600!
         image:
           type: ImageBlock
           altText: Featured icon two
