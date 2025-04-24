@@ -82,16 +82,7 @@ sections:
             justifyContent: center
             margin:
               - mr-6
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
+    actions: []
     elementId: ''
     variant: small-list
     colors: bg-neutral-fg-dark
