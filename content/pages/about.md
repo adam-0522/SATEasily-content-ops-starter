@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: About SAT Easily
+title: Strategies
 sections:
   - type: FeaturedItemsSection
     title:
