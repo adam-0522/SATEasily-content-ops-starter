@@ -13,7 +13,7 @@ sections:
     subtitle: The best prepping strategy for both self-studying and tutoring
     items:
       - type: FeaturedItem
-        title: Start with a Practice Test Before You Begin Studying
+        title: ''
         subtitle: The best way to prepare for it is to take it
         text: >
           Before diving into SAT prep, the very first step I recommend is this:
