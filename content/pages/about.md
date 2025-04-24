@@ -58,10 +58,10 @@ sections:
         styles:
           self:
             padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
+              - pt-20
+              - pl-20
+              - pb-20
+              - pr-20
             borderRadius: x-large
             flexDirection: row
             textAlign: left
