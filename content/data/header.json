@@ -24,13 +24,45 @@
             "elementId": ""
         },
         {
-            "label": "About SAT Easily",
-            "altText": "",
-            "url": "/about",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
+            "type": "SubNav",
+            "label": "Strategies",
+            "altText": "Dropdown",
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "How to start prepping?",
+                    "altText": "",
+                    "url": "/how-to-start-sat",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "improve READING",
+                    "altText": "",
+                    "url": "/improve-reading",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "improve MATH",
+                    "altText": "",
+                    "url": "/improve-math",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
+            "labelStyle": "secondary"
         },
         {
             "label": "Plans",
