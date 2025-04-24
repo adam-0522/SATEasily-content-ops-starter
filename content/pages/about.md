@@ -147,6 +147,11 @@ sections:
           - pl-16
           - pr-16
         justifyContent: center
+        margin:
+          - mt-6
+          - ml-6
+          - mb-6
+          - mr-6
       subtitle:
         textAlign: center
 slug: about
