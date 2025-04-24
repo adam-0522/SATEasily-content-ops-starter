@@ -13,6 +13,31 @@ sections:
     subtitle: The strategy I used for prepping and applied in my tutoring.
     items:
       - type: FeaturedItem
+        title: 20x
+        subtitle: The Job Stuff
+        text: >-
+          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+          explicabo.
+        image:
+          type: ImageBlock
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
         title: How to prepare for English part
         subtitle: ''
         text: >-
@@ -40,31 +65,6 @@ sections:
             justifyContent: center
             textAlign: left
         tagline: ''
-      - type: FeaturedItem
-        title: 20x
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          type: ImageBlock
-          url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
-        actions: []
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
       - type: FeaturedItem
         title: 200%
         subtitle: Faster
