@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: The strategy I used for prepping and applied in my tutoring.
     items:
       - type: FeaturedItem
         title: 20x
