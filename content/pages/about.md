@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: The strategy I used for prepping and applied in my tutoring.
+    subtitle: The best prepping strategy for both self-studying and tutoring
     items:
       - type: FeaturedItem
         title: Start with taking a practice test
