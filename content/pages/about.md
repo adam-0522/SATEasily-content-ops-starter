@@ -65,7 +65,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             textAlign: left
-            justifyContent: flex-end
+            justifyContent: center
       - type: FeaturedItem
         title: How to prepare for English part
         subtitle: ''
