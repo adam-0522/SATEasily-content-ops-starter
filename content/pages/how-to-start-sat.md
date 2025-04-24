@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: List of features here
+      text: How to start prepping for the SAT?
       color: text-primary
       styles:
         self:
