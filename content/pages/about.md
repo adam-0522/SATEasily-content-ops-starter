@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Start with taking a practice test
-        subtitle: The Job Stuff
+        subtitle: The best way to prepare for it is to take it
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
