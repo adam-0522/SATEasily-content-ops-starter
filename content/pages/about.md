@@ -16,20 +16,25 @@ sections:
         title: Start with taking a practice test
         subtitle: The best way to prepare for it is to take it
         text: >
-          Download bluebook, and take one practice test. There are a few
+          # Download bluebook, and take one practice test. There are a few
           benefits for doing so:
 
 
-          First, you know what SAT tests on and how the questions look like. You
-          might have a few irrational fear before taking your SAT, but after the
-          first exam, most students get a basic idea of what the exam really is
-          about, regardless of the score. The concepts should all be pretty
+          ## First, you know what SAT tests on and how the questions look like. 
+
+
+          You might have a few irrational fear before taking your SAT, but after
+          the first exam, most students get a basic idea of what the exam really
+          is about, regardless of the score. The concepts should all be pretty
           familiar or close to what you have encountered in your past learning &
           test taking experience.
 
 
-          Second, you know where to start prepping. After your first practice
-          test, you get a test report that looks like this: 
+          ### Second, you know where to start prepping. 
+
+
+          After your first practice test, you get a test report that looks like
+          this:
 
 
           It's got your score, answers to each question and suggests you what
@@ -42,13 +47,15 @@ sections:
           gaining more points will get you more confident and keep studying.
 
 
-          Finally, you can set a realistic goal for yourself. If your first
-          score is 1000, don't expect to raise it to 1400 in the next one.
-          Hopefully and realistically, you get incremental successes by properly
-          reviewing the wrong questions and get 50 points higher with each test.
-          Then after all the practice tests you shall have a go at 1300+. of
-          course, the higher score you start from, the smaller increments you
-          expect, because the maximum is 1600!
+          ### Finally, you can set a realistic goal for yourself. 
+
+
+          If your first score is 1000, don't expect to raise it to 1400 in the
+          next one. Hopefully and realistically, you get incremental successes
+          by properly reviewing the wrong questions and get 50 points higher
+          with each test. Then after all the practice tests you shall have a go
+          at 1300+. of course, the higher score you start from, the smaller
+          increments you expect, because the maximum is 1600!
         image:
           type: ImageBlock
           altText: Featured icon two
