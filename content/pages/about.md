@@ -16,6 +16,9 @@ sections:
         title: ''
         subtitle: ''
         text: >
+          **Start with a Practice Test Before You Begin Studying**
+
+
           Before diving into SAT prep, the very first step I recommend is this:
           **download Bluebook and take one full practice test**. Here’s why it
           matters:
