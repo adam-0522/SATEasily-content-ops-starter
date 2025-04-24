@@ -31,7 +31,7 @@ sections:
           test taking experience.
 
 
-          ### Second, you know where to start prepping.
+          ##### Second, you know where to start prepping.
 
 
           After your first practice test, you get a test report that looks like
@@ -48,7 +48,7 @@ sections:
           gaining more points will get you more confident and keep studying.
 
 
-          ### Finally, you can set a realistic goal for yourself.
+          ##### Finally, you can set a realistic goal for yourself.
 
 
           If your first score is 1000, don't expect to raise it to 1400 in the
