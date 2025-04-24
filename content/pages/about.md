@@ -5,7 +5,7 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Key Benefits
+      text: How to start prepping for the SAT?
       color: text-dark
       styles:
         self:
