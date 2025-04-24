@@ -25,7 +25,7 @@
         },
         {
             "type": "SubNav",
-            "label": "Dropdown",
+            "label": "Strategies",
             "altText": "Dropdown",
             "links": [
                 {
