@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: The best prepping strategy for both self-studying and tutoring
     items:
       - type: FeaturedItem
         title: Feature Item One
