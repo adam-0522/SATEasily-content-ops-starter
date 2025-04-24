@@ -114,7 +114,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    variant: three-col-grid
+    variant: small-list
     colors: bg-neutral-fg-dark
     styles:
       self:
