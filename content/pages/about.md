@@ -114,7 +114,7 @@ sections:
         self:
           textAlign: center
     elementId: ''
-    variant: small-list
+    variant: toggle-list
     colors: bg-neutral-fg-dark
     styles:
       self:
