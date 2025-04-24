@@ -64,13 +64,6 @@ sections:
 
           Just keep in mind: the higher your starting score, the smaller your
           score jumps will likely be. After all, the max score is 1600!
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature1.svg
-          altText: Background alt text
-          styles:
-            self:
-              borderRadius: x-large
         actions: []
         colors: bg-light-fg-dark
         styles:
