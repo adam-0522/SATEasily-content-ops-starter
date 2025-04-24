@@ -2,7 +2,7 @@
 type: PageLayout
 title: Strategies
 sections: []
-slug: about
+slug: strategies
 isDraft: false
 seo:
   type: Seo
