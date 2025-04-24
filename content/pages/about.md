@@ -16,11 +16,12 @@ sections:
         title: Start with taking a practice test
         subtitle: The best way to prepare for it is to take it
         text: >
-          ## Download bluebook, and take one practice test. There are a few
+          #### Download bluebook, and take one practice test. There are a few
           benefits for doing so:
 
 
-          ### First, you know what SAT tests on and how the questions look like.
+          ##### First, you know what SAT tests on and how the questions look
+          like.
 
 
           You might have a few irrational fear before taking your SAT, but after
