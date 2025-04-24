@@ -13,7 +13,7 @@ sections:
     subtitle: The strategy I used for prepping and applied in my tutoring.
     items:
       - type: FeaturedItem
-        title: 20x
+        title: Start with taking a practice test
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
